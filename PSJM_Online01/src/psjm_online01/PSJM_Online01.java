@@ -31,6 +31,8 @@ public class PSJM_Online01 {
           // Y ahora le digo al sitema que sauqe por pantalla el valor de la variable numero  
         
         System.out.println(numero);
+        
+        //Modifico esta línea para practicar GitHub en clase
                 
     }
 
